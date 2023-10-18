@@ -55,7 +55,7 @@ function App() {
                  <div className="border2">
                         <div className="border1">
                           <>
-                        <img className='w-[390px] rounded-[400px] h-[390px] border max-sm:w-[190px] max-sm:h-[200px]  ' src="./src/images/prof.jpg" alt="" />
+                        <img className='w-[390px] rounded-[400px] h-[390px] border max-sm:w-[190px] max-sm:h-[200px]  ' src="./prof.jpg" alt="" />
                         </>
                         </div>
                   </div>
