@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.per{
+    visibility: hidden;
+}
+
+.border1{
+    border-style: solid; 
+    border-width: 3px;
+    border-color: aquamarine;
+    border-radius: 56% 44% 40% 60% / 45% 57% 43% 55% ;
+    animation : prof 5s linear infinite;
+}
+.border2{
+   border-style: solid;
+   border-width: 3px;
+   border-color: darkblue;
+   border-radius: 55% 45% 47% 53% / 43% 55% 45% 57%  ;
+   animation : prof2 5s linear infinite;
+}
+
+@keyframes prof {
+    0%{
+        transform: rotate(0deg);
+    }
+    0%{
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes prof2 {
+    0%{
+        transform: rotate(0deg);
+    }
+    0%{
+        transform: rotate(-360deg);
+    }
+}
