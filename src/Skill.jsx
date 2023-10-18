@@ -112,7 +112,7 @@ const Skill = () => {
             <div SECOND className="flex flex-col gap-8">
                <div three className="">
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/react.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/react.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>React Js</h1>
@@ -142,7 +142,7 @@ const Skill = () => {
 
                 <div three className="">
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/node.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/node.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>Node js</h1>
@@ -161,7 +161,7 @@ const Skill = () => {
                 <div three className="">
                     <h1 className='text-[24px] font-semibold pl-5 pb-4 hover:underline hover:underline-offset-4 text-zinc-500 max-sm:pl-0'>Database</h1>
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/mongodb.svg" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/mongodb.svg" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>MongoDB</h1>

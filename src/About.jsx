@@ -6,24 +6,24 @@ const About = () => {
         <h1 className='text-[26px] font-bold ' >About me</h1>
         <div className="pl-4 flex flex-col gap-2 max-sm:pl-1">
            <div className="flex flex-row gap-2 pt-3 max-sm:items-start">
-           <img className='w-6  max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/next.png" alt="" />
+           <img className='w-6  max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/images/next.png" alt="" />
              <p className='text-[20px] font-semibold'>I'm a Fresher, A 21 year boy from TmailNadu, very passionate about doing small things in a greater way.
              </p>
              </div>
              <div className="flex flex-row gap-2">
-             <img className='w-6 max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/next.png" alt="" />
+             <img className='w-6 max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/images/next.png" alt="" />
              <p className="text-[20px] font-semibold">
               Looking for a position in <b className='text-[#000000]'>Web development</b> to start my carrier.
              </p>
              </div>
              <div className="flex flex-row gap-2">
-             <img className='w-6 max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/next.png" alt="" />
+             <img className='w-6 max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/images/next.png" alt="" />
              <p className="text-[20px] font-semibold">
                A self motivated and Passionated person towards making new stuff and learning new Trending technologies..
              </p>
              </div>
              <div className="flex flex-row gap-2">
-             <img className='w-6 max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/next.png" alt="" />
+             <img className='w-6 max-sm:w-7 max-sm:h-7 max-sm:mt-1' src="./src/images/next.png" alt="" />
              <p className="text-[20px] font-semibold">
                Having knowledge of various <b>Frontend Frameworks</b> and <b>Libraries</b>,with hands on working with stuff on my own projects.
              </p>
@@ -42,7 +42,7 @@ const About = () => {
         <div className="flex flex-col gap-3 pt-4">
           <h1 className='font-bold text-[25px] max-sm:text-[22px]'>Professional Background</h1>
          <div className="flex flex-row gap-3 pl-4">
-          <img className='w-6 h-8  max-sm:mt-1' src="./src/right.png" alt="" />
+          <img className='w-6 h-8  max-sm:mt-1' src="./src/images/right.png" alt="" />
           <p className='text-[18px] font-semibold'>I'm a <b className='text-[22px] font-serif'>fresher</b> and <b>2023</b> year Graduate. <br />
           I have completed few projects to showcase my talent on Frontend technologies <br />
           Frontend developer is my 1'st on my career..</p>
@@ -53,10 +53,10 @@ const About = () => {
           <div className="flex flex-row gap-3 items-center pl-7 max-sm:flex-col max-sm:pl-5">
                <h2 className='text-red-600 font-semibold text-[23px] '>I want to become a <b className='max-sm:text-[28px]'>MERN</b> Stack developer</h2>
                <div className='flex flex-row gap-3 justify-center items-center'>
-               <img className='w-12 h-12' src="./src/mongodb.svg" alt="" />
-               <img className='w-12 h-12' src="./src/express.png" alt="" />
-               <img className='w-12 h-12' src="./src/react.png" alt="" />
-               <img className='w-12 h-12' src="./src/node.png" alt="" />
+               <img className='w-12 h-12' src="./src/images/mongodb.svg" alt="" />
+               <img className='w-12 h-12' src="./src/images/express.png" alt="" />
+               <img className='w-12 h-12' src="./src/images/react.png" alt="" />
+               <img className='w-12 h-12' src="./src/images/node.png" alt="" />
                </div>
           </div>
         </div>
