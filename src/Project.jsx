@@ -7,10 +7,10 @@ const Project = () => {
             <h1 className='font-bold text-[24px] hover:translate-x-6 hover:text-blue-300'>1.News Article Page</h1>
             <div FIRST className="grid grid-cols-[3fr,1fr] py-4 gap-3 max-sm:grid-cols-1">    
                  <div className="">
-                    <img className='max-sm:pr-4 max-sm:pb-3' src="./src/images/news.png" alt="" />
+                    <img className='max-sm:pr-4 max-sm:pb-3' src="./news.png" alt="" />
                  </div>
                  <div className="">
-                 <img className='h-[450px] w-[277px] max-sm:w-[320px]' src="./src/images/res.jpg" alt="" />
+                 <img className='h-[450px] w-[277px] max-sm:w-[320px]' src="./res.jpg" alt="" />
                  </div>
             </div>
             <div className="">
@@ -27,7 +27,7 @@ const Project = () => {
                 <p className="font-medium text-[18px] text-slate-700 max-sm:indent-5">It is created <b className='text-red-700 text-[20px]'>Tailwind CSS</b> low level style framework</p>
               </div>
               <div className="flex flex-row items-center justify-center max-sm:flex-row max-sm:items-start max-sm:justify-between">
-                <img className='w-16' src="./src/images/git.png" alt="" />
+                <img className='w-16' src="./git.png" alt="" />
                 <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline max-sm:text-[20px] max-sm:">https://sathiskumar30.github.io/tridotsreact/</p>
               </div>
             </div>
@@ -35,7 +35,7 @@ const Project = () => {
                 <div className="">
                   <h2 className="font-bold text-[24px] hover:translate-x-6 hover:text-blue-300">2. Zlipkart</h2>
                     <div className="grid grid-cols-2 gap-4 py-3 max-sm:grid-cols-1 max-sm:py-0">
-                        <img className="p-2 max-sm:pr-3" src="./src/images/proj2.png" alt="" />
+                        <img className="p-2 max-sm:pr-3" src="./proj2.png" alt="" />
                         <div className="flex flex-col gap-1 max-sm:px-1">
                           <h1 className='font-semibold text-[24px] text-blue-600'>Short Intro</h1>
                           <p className='font-medium text-[18px] text-slate-700 max-sm:indent-3'>The image on left side represents the overview of my <b className='text-red-700 text-[20px]'>Zlipkart</b> app , it resembles the overview of official flipkart website.</p>
@@ -49,7 +49,7 @@ const Project = () => {
                         </div>
                     </div>
                     <div className="flex flex-row items-center justify-center">
-                          <img className='w-16' src="./src/images/git.png" alt="" />
+                          <img className='w-16' src="./git.png" alt="" />
                           <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline">https://sathiskumar30.github.io/flipkart/</p>
                     </div>  
 
@@ -60,7 +60,7 @@ const Project = () => {
             <h1 className='font-bold text-[24px] hover:translate-x-6 hover:text-blue-300'>3. CRUD operations</h1>
                 <div className="flex flex-row  gap-5 py-4 pl-3 max-sm:flex-col max-sm:pl-0 max-sm:px-4">
                   <div className="">
-                   <img className="h-[420px] w-[372px]" src="./src/images/crud.png" alt="" />
+                   <img className="h-[420px] w-[372px]" src="./crud.png" alt="" />
                   </div>
                   <div className="flex flex-col gap-3">
                     <h1  className="font-semibold text-[24px] text-blue-600">Short note :</h1>
@@ -71,7 +71,7 @@ const Project = () => {
                     <p className="font-medium text-[22px] text-slate-700 max-sm:indent-3">The project demonstrations gives you an basic idea of crud on React</p>
                     <p className='font-medium text-[22px] text-slate-700 max-sm:indent-3'>This project is a simple Grocery list , we can made change the <b className='text-red-700 text-[20px]'>Price</b>, <b className='text-red-700 text-[20px]'>Name</b>, <b className='text-red-700 text-[20px]'>Short info</b>, about the all products , that are present in the list </p>
                        <div className="flex flex-row items-center justify-start">
-                          <img className='w-16' src="./src/images/git.png" alt="" />
+                          <img className='w-16' src="./git.png" alt="" />
                           <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline">https://sathiskumar30.github.io/Crud/</p>
                     </div>
                   </div>

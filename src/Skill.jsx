@@ -15,7 +15,7 @@ const Skill = () => {
             <div FIRST className="flex flex-col items-start gap-8">
                 <div one className="">
                     <div className="flex flex-row gap-4 max-sm:gap-3">
-                        <img className='w-14 max-sm:w-10' src="./src/images/html.png" alt="" srcset="" />
+                        <img className='w-14 max-sm:w-10' src="./html.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-1">
                             <div className="flex flex-row  justify-between items-center pr-4 ">
                                         <h1 className='text-[20px] font-semibold'>HTML5</h1>
@@ -33,7 +33,7 @@ const Skill = () => {
 
                  <div two className="">
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12  ' src="./src/images/css.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12  ' src="./css.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>CSS3</h1>
@@ -53,7 +53,7 @@ const Skill = () => {
                 <div three className="">
                 <h1 className='text-[24px] font-semibold pl-5 pb-4 hover:underline hover:underline-offset-4 text-zinc-500 max-sm:pl-0'>Language</h1>
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/javascript.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./javascript.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'></h1>
@@ -79,7 +79,7 @@ const Skill = () => {
 
                 <div three className="">
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12  h-10' src="./src/images/tail.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12  h-10' src="./tail.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>Tailwind CSS</h1>
@@ -112,7 +112,7 @@ const Skill = () => {
             <div SECOND className="flex flex-col gap-8">
                <div three className="">
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/react.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./react.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>React Js</h1>
@@ -142,7 +142,7 @@ const Skill = () => {
 
                 <div three className="">
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/node.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./node.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>Node js</h1>
@@ -161,7 +161,7 @@ const Skill = () => {
                 <div three className="">
                     <h1 className='text-[24px] font-semibold pl-5 pb-4 hover:underline hover:underline-offset-4 text-zinc-500 max-sm:pl-0'>Database</h1>
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/mongodb.svg" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./mongodb.svg" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>MongoDB</h1>
@@ -181,7 +181,7 @@ const Skill = () => {
                 <div three className="">
                 <h1 className='text-[24px] font-semibold pl-5 pb-4 hover:underline hover:underline-offset-4 text-zinc-500 max-sm:pl-0'>Source control</h1>
                     <div className="flex flex-row gap-4 max-sm:gap-[4px]">
-                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./src/images/git.png" alt="" srcset="" />
+                        <img className='w-14  max-sm:w-12 max-sm:h-12' src="./git.png" alt="" srcset="" />
                         <div className="flex flex-col gap-2 max-sm:gap-2">
                         <div className="flex flex-row  justify-between items-center pr-4">
                                         <h1 className='text-[20px] font-semibold'>Github</h1>

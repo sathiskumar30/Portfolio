@@ -6,7 +6,7 @@ const Education = () => {
       <div className="grid grid-cols-2 gap-2 max-sm:grid-cols-1 max-sm:gap-7">
          <div FIRST className="flex flex-row items-center gap-4">
             <div className="">
-                <img className="w-28 h-fit max-sm:w-32" src="./src/images/grad.png" alt="" />
+                <img className="w-28 h-fit max-sm:w-32" src="./grad.png" alt="" />
             </div>
            <div className="">
             <h2 className='text-[18px] font-medium'>Bacholer's of Education</h2>
@@ -20,7 +20,7 @@ const Education = () => {
          </div>
          <div SECOND className="flex flex-row items-center gap-5 ">
                <div className="">
-                      <img className="w-24 h-fit max-sm:w-32" src="./src/images/schl.png" alt="" />
+                      <img className="w-24 h-fit max-sm:w-32" src="./schl.png" alt="" />
                </div>
                <div className="max-sm:flex max-sm:flex-col max-sm:gap-1">
                   <h1 className='font-semibold text-[16px]'>Higher Secondary</h1>
