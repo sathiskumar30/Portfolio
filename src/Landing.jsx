@@ -24,7 +24,7 @@ const Landing = () => {
 
 
   return (
-    <div LANDING CONTENT id="landing" className='flex flex-row gap-[130px]  items-center max-sm:flex-col-reverse max-sm:gap-[10px] max-sm:pl-3 max-sm:py-2 bg-[url(./back1.jpg)] bg-cover text-white pb-20 max-sm:pb-8'>
+    <div LANDING CONTENT id="landing" className='flex flex-row gap-[130px]  items-center max-sm:flex-col-reverse max-sm:gap-[10px] max-sm:pl-3 max-sm:py-2 bg-[url("https://media.istockphoto.com/id/1326304939/vector/studio-room-in-dark-blue-background-with-copy-space-luxury-gallery-empty-room-abstract.jpg?s=612x612&w=0&k=20&c=wZhCPp213vDnmc66LNJ3Kb4qKZHr_xiKCvYmfpQgyHI=")] bg-cover text-white pb-20 max-sm:pb-8'>
              <div className="pl-20 pt-28 max-sm:pl-0 max-sm:pt-0">
                <h3 className='font-semibold text-[30px] max-sm:text-[18px] text-teal-400'>Hello, I'm</h3>
                <h1 className='font-semibold text-[45px] max-sm:text-[25px]'>Sathis kumar</h1>
