@@ -10,7 +10,7 @@ const Skill = () => {
 
 
   return (
-    <div className='pl-6 bg-green-100 pt-5 max-sm:pl-2 max-sm:px-4 max-sm:pt-0'>
+    <div id="skill" className='pl-6 bg-green-200 pt-5 max-sm:pl-2 max-sm:px-4 max-sm:pt-0'>
         <div GRID className="py-5 grid grid-cols-2 max-sm:grid-cols-1 max-sm:py-3">
             <div FIRST className="flex flex-col items-start gap-8">
                 <div one className="">

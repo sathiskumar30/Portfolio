@@ -2,7 +2,7 @@ import React from 'react'
 
 const Project = () => {
   return (
-    <div TOATAL className="pl-6 py-9 bg-gray-50">Projects page
+    <div TOATAL id='project' className="pl-6 py-9 bg-gray-50">Projects page
           <div MAIN className="">
             <h1 className='font-bold text-[24px] hover:translate-x-6 hover:text-blue-300'>1.News Article Page</h1>
             <div FIRST className="grid grid-cols-[3fr,1fr] py-4 gap-3 max-sm:grid-cols-1">    
@@ -28,7 +28,9 @@ const Project = () => {
               </div>
               <div className="flex flex-row items-center justify-center max-sm:flex-row max-sm:items-start max-sm:justify-between">
                 <img className='w-16' src="./git.png" alt="" />
-                <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline max-sm:text-[20px] max-sm:">https://sathiskumar30.github.io/tridotsreact/</p>
+                <a href="https://sathiskumar30.github.io/tridotsreact/">
+                      <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline max-sm:text-[20px] max-sm:">https://sathiskumar30.github.io/tridotsreact/</p>
+                </a>
               </div>
             </div>
             <div SECOND className="">
@@ -50,7 +52,10 @@ const Project = () => {
                     </div>
                     <div className="flex flex-row items-center justify-center">
                           <img className='w-16' src="./git.png" alt="" />
-                          <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline">https://sathiskumar30.github.io/flipkart/</p>
+                          <a href="https://sathiskumar30.github.io/flipkart/">
+                                <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline">https://sathiskumar30.github.io/flipkart/
+                                  </p>
+                          </a>
                     </div>  
 
 
@@ -58,21 +63,23 @@ const Project = () => {
             </div>
          <div THIRD className="">
             <h1 className='font-bold text-[24px] hover:translate-x-6 hover:text-blue-300'>3. CRUD operations</h1>
-                <div className="flex flex-row  gap-5 py-4 pl-3 max-sm:flex-col max-sm:pl-0 max-sm:px-4">
+                <div className="flex flex-row  gap-10 py-4 pl-3 max-sm:flex-col max-sm:pl-0 max-sm:px-4">
                   <div className="">
                    <img className="h-[420px] w-[372px]" src="./crud.png" alt="" />
                   </div>
-                  <div className="flex flex-col gap-3">
+                  <div className="flex flex-col gap-3 ">
                     <h1  className="font-semibold text-[24px] text-blue-600">Short note :</h1>
-                    <p className="font-medium text-[22px] text-slate-700 max-sm:indent-3">
+                    <p className="font-medium text-[20px] text-slate-700 max-sm:indent-3">
                       The picture on left shows the view of the <b className='text-red-700 text-[20px]'>CRUD</b> operations on <b className='text-red-700 text-[20px]'>React Js</b>.
                     </p>
-                    <p className="font-medium text-[22px] text-slate-700 max-sm:indent-3">CRUD stands for Create Read Update and Delete , These are operations available using the crud in React. </p>
-                    <p className="font-medium text-[22px] text-slate-700 max-sm:indent-3">The project demonstrations gives you an basic idea of crud on React</p>
-                    <p className='font-medium text-[22px] text-slate-700 max-sm:indent-3'>This project is a simple Grocery list , we can made change the <b className='text-red-700 text-[20px]'>Price</b>, <b className='text-red-700 text-[20px]'>Name</b>, <b className='text-red-700 text-[20px]'>Short info</b>, about the all products , that are present in the list </p>
+                    <p className="font-medium text-[20px] text-slate-700 max-sm:indent-3">CRUD stands for Create Read Update and Delete , These are operations available using the crud in React. </p>
+                    <p className="font-medium text-[20px] text-slate-700 max-sm:indent-3">The project demonstrations gives you an basic idea of crud on React</p>
+                    <p className='font-medium text-[20px] text-slate-700 max-sm:indent-3'>This project is a simple Grocery list , we can made change the <b className='text-red-700 text-[20px]'>Price</b>, <b className='text-red-700 text-[20px]'>Name</b>, <b className='text-red-700 text-[20px]'>Short info</b>, about the all products , that are present in the list </p>
                        <div className="flex flex-row items-center justify-start">
                           <img className='w-16' src="./git.png" alt="" />
-                          <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline">https://sathiskumar30.github.io/Crud/</p>
+                          <a href="https://sathiskumar30.github.io/Crud/">
+                              <p className="text-[22px] text-blue-800 hover:underline-offset-8 hover:underline">https://sathiskumar30.github.io/Crud/</p>
+                          </a>
                     </div>
                   </div>
                
